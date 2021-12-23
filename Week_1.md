@@ -1,6 +1,6 @@
 ## Intro to UI Design: Introduction and Overview Assesment 1
 
-# 1.
+# 1.wrong
 The video that introduced the idea of Hall of Fame and Hall of Shame interfaces included a few pieces of design wisdom. Which of the following are true? (Select all that apply)
  # Written instructions in any user interface are a sign of bad design.
  # Simple things should be simple to use.
@@ -18,6 +18,7 @@ Come up with a new and more appealing name for the command so users will use the
 3.
 Question 3
 Suppose you are designing a book search feature for children. What is one relevant lesson learned from the International Children’s Digital Library project?
+# right : Children may want to search for a book based on its length, its characters, or the color of its cover.
 Make sure to include cartoon characters to engage the child.
 # (wrong) Children may want to search for a book based on its length, its characters, or the color of its cover
 Children typically search for books by typing in the name of the author or the title.
@@ -27,8 +28,8 @@ Children typically search for books by typing in the name of the author or the t
 Question 4
 Suppose you are designing a socio-technical system (i.e., a social system operating on a technical base). What are relevant lessons learned from Airbnb and Couchsurfing?  Please select all answers that apply.
 # (wrong) People always want to see other users’ personal information like their age and gender in a socio-technical system.
-Make sure to include price information on the landing page.
-# (wrong) Good design should reflect and reinforce the purpose of the system. 
+# (wrong)Make sure to include price information on the landing page.
+ Good design should reflect and reinforce the purpose of the system. 
 # (wrong) Although both Airbnb and Couchsurfing provide beds for travelers, the interface of Airbnb reinforces the idea that Airbnb is a platform for people to find place to stay over; while couchsurfing successfully builds an environment where people find other people to stay with.  
 
 5.
