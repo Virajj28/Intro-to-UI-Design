@@ -2,7 +2,7 @@
 
 ## 1. You are asked to design a system to support the social workers in a non-profit focused on helping low-income families, but you know very little about this context. What is the most important question to answer with formative work before beginning to design?
 
-() Who are the target users, in terms of their challenges, strategies, and values?
+(correct) Who are the target users, in terms of their challenges, strategies, and values?
 How technically literate are your users?
 What technology do the users say they want?
 Do these users tend to use iOS or Android products?
@@ -11,7 +11,7 @@ Do these users tend to use iOS or Android products?
 
 What is the best visual design for your interface?
 When do the users get confused or make errors with each of your proposed solutions?
-() What are the key challenges your solutions must address and key constraints to which it must adhere?
+(correct) What are the key challenges your solutions must address and key constraints to which it must adhere?
 Who are your target users?
 
 ## 3. Which of the following is true about “critique” as a design-centered approach? (Select all that apply)
@@ -45,7 +45,7 @@ VSD supports the designer in considering how technical systems may support or vi
 # 7.You are a novice designer tasked with creating a web-based user interface for course registration at a university. College students using the system generally already know which courses they want to take and will want to complete the registration task quickly and efficiently. Which of the following approaches is most reasonable and why?
 
 A design-centered approach, because it is the approach best suited to structured tasks and this approach provides a lot of structure for novice designers.
-() A task-centered user interface design (TCUID) approach, because this problem can be described as a series of tasks and TCUID provides a clear set of steps and artifacts for creating a reasonable task-centered interface.
+(correct) A task-centered user interface design (TCUID) approach, because this problem can be described as a series of tasks and TCUID provides a clear set of steps and artifacts for creating a reasonable task-centered interface.
 A task-centered user interface design (TCUID) approach, because it is the only valid and rigorous approach to user-interface design.
 A design-centered approach, because this is a case where motivation, affect, and values are most important to this system’s success.
 
@@ -60,13 +60,13 @@ Each persona describes an individual who was studied in the research
 
 The new user experience was too complex
 Users complained that the interface felt dated
-() The old interface took too much CPU time
+(correct) The old interface took too much CPU time
 Many of the prominent interface features were not being used  
 
 # 10.All of the design processes we discuss have three core elements.  Which of the following is not one of those core elements?
 
 User Research
-() Formal Specification
+(correct) Formal Specification
 Design and Prototyping
 Evaluation
 
