@@ -78,7 +78,7 @@ That it is easier to improve an interface design than to get it right the first 
 That designers and developers get bored if they work too long without switching to another task.
 
 # 12.Which of the following artifacts is this: “John’s boss tells him about a new course on user interface design on Coursera, offered by a team of faculty at the University of Minnesota.  She asks him to look into the course and find out how long it would take to complete and whether John has the background needed to take it.”
-() A persona
+(wrong) A persona
 A task description
 A walkthrough scenario
 None of the above
