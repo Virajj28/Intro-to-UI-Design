@@ -37,7 +37,7 @@ In participatory design, ideas from users should be interpreted and implemented 
 
 # 6.Which of the following statements  is true about “Value Sensitive Design” (VSD) when done correctly?
 
-() VSD is best applied as a way to evaluate a final design once it is implemented, in order to understand whether that solution matches the values of the intended users.
+(wrong) VSD is best applied as a way to evaluate a final design once it is implemented, in order to understand whether that solution matches the values of the intended users.
 In VSD, the designer must use the specific methods of contextual inquiry and envisioning cards to consider values.
 VSD focuses on practical values that deal with getting tasks done quickly, such as efficiency and collaboration.
 VSD supports the designer in considering how technical systems may support or violate human values.
