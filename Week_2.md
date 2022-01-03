@@ -24,14 +24,14 @@ A critique-driven discussion assumes that the participants are trained experts w
 # 4.Which of the following best describes the “Cultural Probes” design method when done correctly?
 
 (wrong) The probes will tell you what to build next.
-Cultural probes must always include a camera, a recorder, and a notebook.
+(wrong)Cultural probes must always include a camera, a recorder, and a notebook.
 The probes focus on initiating a rich dialogue, inspiring, and challenging assumptions.
 The probes are sufficient to gather data without specific prompts.
 
 # 5.Which of the following statements are true about the “Participatory Design” method when it is done correctly? (Select all that apply)
 
 () Participatory design is best described as a process where an interdisciplinary team (e.g., designer, programmers, and business person) participate together in creating a good system for users.
-The primary role of users in a participatory design process is as sources for formative data for the design team.
+()The primary role of users in a participatory design process is as sources for formative data for the design team.
 () Design partners should be included at multiple stages of the process: formative work, design, and evaluation.
 In participatory design, ideas from users should be interpreted and implemented literally, because users have the best understanding of their context.
 
@@ -40,7 +40,7 @@ In participatory design, ideas from users should be interpreted and implemented 
 (wrong) VSD is best applied as a way to evaluate a final design once it is implemented, in order to understand whether that solution matches the values of the intended users.
 In VSD, the designer must use the specific methods of contextual inquiry and envisioning cards to consider values.
 VSD focuses on practical values that deal with getting tasks done quickly, such as efficiency and collaboration.
-VSD supports the designer in considering how technical systems may support or violate human values.
+(correct)VSD supports the designer in considering how technical systems may support or violate human values.
 
 # 7.You are a novice designer tasked with creating a web-based user interface for course registration at a university. College students using the system generally already know which courses they want to take and will want to complete the registration task quickly and efficiently. Which of the following approaches is most reasonable and why?
 
@@ -51,10 +51,10 @@ A design-centered approach, because this is a case where motivation, affect, and
 
 # 8.Which of the following statements accurately describe personas?
 
-They are based on research
-() Each product or interface needs exactly one persona
+(2)They are based on research
+() (2)Each product or interface needs exactly one persona
 Each persona describes an individual who was studied in the research
-() They are used as part of the design process
+()(2) They are used as part of the design process
 
 # 9.In the case study on improving an existing solution, we heard about why the MovieLens system interface was updated.  Three of the following were reasons for making these updates -- which one was not a reason?
 
@@ -81,4 +81,4 @@ That designers and developers get bored if they work too long without switching 
 (wrong) A persona
 A task description
 A walkthrough scenario
-None of the above
+(wrong) None of the above
