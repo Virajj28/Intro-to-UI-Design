@@ -23,7 +23,7 @@ A critique-driven discussion assumes that the participants are trained experts w
 
 # 4.Which of the following best describes the “Cultural Probes” design method when done correctly?
 
-() The probes will tell you what to build next.
+(wrong) The probes will tell you what to build next.
 Cultural probes must always include a camera, a recorder, and a notebook.
 The probes focus on initiating a rich dialogue, inspiring, and challenging assumptions.
 The probes are sufficient to gather data without specific prompts.
