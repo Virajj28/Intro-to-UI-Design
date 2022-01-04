@@ -72,7 +72,7 @@ Evaluation
 
 # 11.Usability engineering has a focus on iteratively designing, evaluating, and re-designing.  What is the insight behind this process?
 
-() That there is a limit to how much design you can do before the design starts getting worse.
+(wrong) That there is a limit to how much design you can do before the design starts getting worse.
 That user interface design has to be iterative because users make use of the interfaces over and over again.
 That it is easier to improve an interface design than to get it right the first time
 That designers and developers get bored if they work too long without switching to another task.
